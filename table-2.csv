@@ -1,0 +1,22 @@
+nationality,country,continent,iso_alpha,count,male,female
+Austrian,Austria,Europe,AUT,2,0,2
+Belgian,Belgium,Europe,BEL,2,1,1
+Brazilian,Brazil,Americas,BRA,3,0,2
+Norwegian,Norway,Europe,NOR,4,0,4
+Danish,Denmark,Europe,DNK,5,0,5
+Dutch,Netherlands,Europe,NLD,2,0,2
+English,United Kingdom,Europe,GBR,35,4,31
+American,United States,Americas,USA,28,6,22
+Finnish,Finland,Europe,FIN,2,0,2
+French,France,Europe,FRA,7,3,4
+German,Germany,Europe,DEU,15,5,10
+Ghanaian,Ghana,Africa,GHA,1,0,1
+Icelandic,Iceland,Europe,ISL,1,1,0
+Irish,Ireland,Europe,IRL,4,1,3
+Italian,Italy,Europe,ITA,4,1,3
+Polish,Poland,Europe,POL,1,0,1
+Saudi,Saudi Arabia,Asia,SAU,2,0,2
+Somalian,Somalia,Africa,SOM,1,1,0
+Spanish,Spain,Europe,ESP,3,1,2
+Swedish,Sweden,Europe,SWE,7,0,7
+Swiss,Switzerland,Europe,CHE,6,1,5
